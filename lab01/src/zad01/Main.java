@@ -8,7 +8,8 @@ public class Main {
 
     private void display(){
         System.out.println("DOS piterm11");
-        System.out.println("DOS MarekZuchowski");
+        System.out.println("MarekZuchowski");
+        System.out.println("S-T-A-L-K-R");
     }
 
 
