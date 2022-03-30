@@ -7,6 +7,13 @@ public class Main {
     }
 
     private void display(){
-        System.out.println("DOS piterm11");
+        System.out.println("DOS");
+        System.out.println("piterm11");
+        System.out.println("pioter00");
+        System.out.println("Backss4");
+        System.out.println("MarekZuchowski");
+        System.out.println("S-T-A-L-K-R");
     }
+
+
 }
