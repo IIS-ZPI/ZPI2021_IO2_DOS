@@ -15,5 +15,5 @@ public class Main {
         System.out.println("S-T-A-L-K-R");
     }
 
-
+//    pioter00 commented
 }
