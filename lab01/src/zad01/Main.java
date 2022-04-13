@@ -6,6 +6,9 @@ public class Main {
         main.display();
     }
 
+    /**
+     * Display informations about team
+     */
     private void display(){
         System.out.println("DOS");
         System.out.println("piterm11");
@@ -14,6 +17,6 @@ public class Main {
         System.out.println("MarekZuchowski");
         System.out.println("S-T-A-L-K-R");
     }
-
-
+    // issa comment
+    //    pioter00 commented
 }
