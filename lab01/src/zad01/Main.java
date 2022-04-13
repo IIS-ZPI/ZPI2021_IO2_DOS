@@ -6,9 +6,6 @@ public class Main {
         main.display();
     }
 
-    /**
-     * Display informations about team
-     */
     private void display(){
         System.out.println("DOS");
         System.out.println("piterm11");
