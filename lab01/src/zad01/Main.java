@@ -7,7 +7,7 @@ public class Main {
     }
 
     private void display(){
-        System.out.println("DOS");
+        System.out.println("DOS"); // 8===============================================================================================D
         System.out.println("piterm11");
         System.out.println("pioter00");
         System.out.println("Backss4");
