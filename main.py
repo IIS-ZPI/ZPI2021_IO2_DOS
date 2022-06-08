@@ -1,9 +1,10 @@
-import sample.core
-import sample.helpers
+import sys
+from PyQt5.QtWidgets import QApplication
+from dataTypes import STYLES
+from gui import GUI
 
-print(sample.core.get_hmm())
-
-if sample.helpers.get_answer() == True:
-    x = input("It works!!!")
-else:
-    x = input("It doesn't work!!!")
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    app.setStyleSheet(STYLES)
+    ex = GUI()
+    sys.exit(app.exec_())
